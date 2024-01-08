@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+.main{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 4%;
+}
+
+.subdiv{
+    background-color: white;
+    width: 40%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    padding: 10px;
+    border-radius: 5px;
+}
